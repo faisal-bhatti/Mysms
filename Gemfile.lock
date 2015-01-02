@@ -114,6 +114,7 @@ GEM
     nexmo (2.0.0)
     nokogiri (1.5.11)
     orm_adapter (0.5.0)
+    pg (0.17.1)
     polyamorous (0.5.0)
       activerecord (~> 3.0)
     polyglot (0.3.5)
@@ -193,6 +194,7 @@ DEPENDENCIES
   less-rails
   mysql2
   nexmo
+  pg (~> 0.17.1)
   rails (= 3.2.12)
   sass-rails (~> 3.2.3)
   therubyracer
